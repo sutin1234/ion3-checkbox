@@ -1,11 +1,17 @@
 # ion3-checkbox
-add ionic3 tootle checkbox
+add ionic3 toggle ion-checkbox
+
+# install nodejs
+go to https://nodejs.org/en/ then download and install in your system
+
+# install git
+goto https://git-scm.com/ then download and install in your system
 
 # install environtment you system if your system installed please skip step if not install please folloe below step
 npm install -g ionic cordova
 
 # clone github
-https://github.com/sutin1234/ion3-checkbox.git
+git clone https://github.com/sutin1234/ion3-checkbox.git
 
 # install dependency
 npm install
