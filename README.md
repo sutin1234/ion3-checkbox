@@ -13,11 +13,14 @@ npm install -g ionic cordova
 # clone github
 git clone https://github.com/sutin1234/ion3-checkbox.git
 
-# install dependency
-npm install
+# unzip project
+extract project folder and files
 
 # change directory to project
 cd ./ion3-checkbox
+
+# install dependency
+npm install
 
 # serve project
 ionic serve
